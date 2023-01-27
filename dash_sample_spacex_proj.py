@@ -7,7 +7,7 @@ import plotly.express as px
 
 
 
-spacex_df = pd.read_csv('spacex_launch_dash.csv')
+spacex_df = pd.read_csv()
 max_payload = spacex_df['Payload Mass (kg)'].max()
 min_payload = spacex_df['Payload Mass (kg)'].min()
 
