@@ -1,0 +1,7 @@
+X = Engine size (l), cylinders, fuel consumption city, fuel consumption HWY,
+  fuel consumption comb
+Y = Engine size (l), cylinders, fuel consumption city, fuel consumption HWY,
+  fuel consumption comb
+
+by my research using the output of the corelational matrix the best mach
+possible for this data base is linear regression and line graph construction.
